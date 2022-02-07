@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New On-Site Work Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>On-Site Work Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">246ed24ba9223010c0a065f439e661f8</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-28 15:28:41</sys_created_on>
+        <sys_id>aa7b928a1b110110d5ebc803604bcb2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>On-Site Work Request</sys_name>
+        <sys_package display_value="On-Site Work Request" source="x_619155_on_site_0">93fada4a1b110110d5ebc803604bcbb0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="On-Site Work Request">93fada4a1b110110d5ebc803604bcbb0</sys_scope>
+        <sys_update_name>sys_wizard_answer_aa7b928a1b110110d5ebc803604bcb2c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-28 15:28:41</sys_updated_on>
+        <table/>
+        <target_url>x_619155_on_site_0_on_site_work_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

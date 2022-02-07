@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="On-Site Work Request">db1e160e1b110110d5ebc803604bcbb2</catalog_item>
+        <catalog_variable>IO:d601ae8e1b110110d5ebc803604bcbe6</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-28 15:54:15</sys_created_on>
+        <sys_id>c951e2ce1b110110d5ebc803604bcb98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>whiteboard</sys_name>
+        <sys_package display_value="On-Site Work Request" source="x_619155_on_site_0">93fada4a1b110110d5ebc803604bcbb0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="On-Site Work Request">93fada4a1b110110d5ebc803604bcbb0</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_c951e2ce1b110110d5ebc803604bcb98</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-28 15:54:15</sys_updated_on>
+        <table/>
+        <ui_policy display_value="On-Site Work Request UI policy">f441ea0e1b110110d5ebc803604bcb80</ui_policy>
+        <variable>whiteboard</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+</record_update>

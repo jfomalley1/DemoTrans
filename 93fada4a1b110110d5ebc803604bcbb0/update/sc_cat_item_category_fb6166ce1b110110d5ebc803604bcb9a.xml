@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="On-Site Work Request">db1e160e1b110110d5ebc803604bcbb2</sc_cat_item>
+        <sc_category display_value="Office">109cdff8c6112276003b17991a09ad65</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-28 15:54:43</sys_created_on>
+        <sys_id>fb6166ce1b110110d5ebc803604bcb9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office.On-Site Work Request</sys_name>
+        <sys_package display_value="On-Site Work Request" source="x_619155_on_site_0">93fada4a1b110110d5ebc803604bcbb0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="On-Site Work Request">93fada4a1b110110d5ebc803604bcbb0</sys_scope>
+        <sys_update_name>sc_cat_item_category_fb6166ce1b110110d5ebc803604bcb9a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-28 15:54:43</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
