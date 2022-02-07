@@ -3,7 +3,7 @@
         <choices/>
         <description>Header Configuration</description>
         <name>chrome_header</name>
-        <page display_value="On-Site Work Request">6dd12ece2911011044146c83ba30ad5d</page>
+        <page display_value="">6dd12ece2911011044146c83ba30ad5d</page>
         <required_translations>[ {
   "message" : "Configure workspace",
   "comment" : ""

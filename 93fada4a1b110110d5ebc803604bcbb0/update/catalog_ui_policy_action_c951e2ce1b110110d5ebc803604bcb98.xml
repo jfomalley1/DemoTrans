@@ -20,7 +20,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-28 15:54:15</sys_updated_on>
         <table/>
-        <ui_policy display_value="On-Site Work Request UI policy">f441ea0e1b110110d5ebc803604bcb80</ui_policy>
+        <ui_policy display_value="Make 'whiteboard' hidden depending on 'request_type'">f441ea0e1b110110d5ebc803604bcb80</ui_policy>
         <variable>whiteboard</variable>
         <variable_set/>
         <visible>false</visible>
